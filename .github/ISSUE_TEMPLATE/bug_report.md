@@ -1,6 +1,6 @@
 ---
 name: バグ報告
-about: ''
+about: 発生したバグを報告する
 title: ''
 labels: bug
 assignees: ''

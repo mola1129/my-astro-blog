@@ -1,6 +1,6 @@
 ---
 name: 機能要望
-about: ''
+about: 欲しい機能を挙げる
 title: ''
 labels: enhancement
 assignees: ''
